@@ -11,3 +11,5 @@ We propose a novel Bayesian biclustering method that can handle multiple data ty
 - analysis_master.R contains the example code for the model implementation and model selection. 
 - bic_buning.R contains the BIC function used in the model selection procedure.
 
+## Link
+[Original Paper](https://academic-oup-com.proxy.library.upenn.edu/biostatistics/article/21/3/610/5268840?login=true&token=eyJhbGciOiJub25lIn0.eyJleHAiOjE3MjAyNzg0ODcsImp0aSI6ImZjN2ZkNTYzLTM4NmUtNGRjYy05MzM1LTNiMDk0NmQwZjgwZCJ9.)
